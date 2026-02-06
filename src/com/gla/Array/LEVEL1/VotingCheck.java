@@ -1,3 +1,5 @@
+package com.gla.Array.LEVEL1;
+
 import java.util.Scanner;
 
 public class VotingCheck {
