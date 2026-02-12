@@ -1,31 +1,21 @@
 package com.gla.String.level2;
 import java.util.Scanner;
-
 public class LengthWithoutLength {
-       public static int findLength(String s) {
-            int count = 0;
-
-            try {
-                while (true) {
+        static int myLength(String s){
+            int count=0;
+            try{
+                for(;;){
                     s.charAt(count);
                     count++;
                 }
-            } catch (Exception e) {
+            }catch(Exception e){
                 return count;
             }
         }
-
-        public static void main(String[] args) {
-            Scanner sc = new Scanner(System.in);
-
-            System.out.print("Enter text: ");
-            String text = sc.next();
-
-            int customLength = findLength(text);
-            int builtInLength = text.length();
-
-            System.out.println("Custom Length: " + customLength);
-            System.out.println("Built-in Length: " + builtInLength);
+        public static void main(String[] args){
+            Scanner sc=new Scanner(System.in);
+            String s=sc.next();
+            System.out.println("User Method Length: "+myLength(s));
+            System.out.println("Built-in Length: "+s.length());
         }
-
-}
+    }
