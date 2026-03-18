@@ -1,5 +1,5 @@
-package com.GLA.arrays;
-import java.util.*;
+package com.GLA.leetcode;
+
 public class LC1 {
     public int[] twoSum(int[] nums, int target) {
         int[] ans=new int[2];

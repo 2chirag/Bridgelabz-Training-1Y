@@ -1,5 +1,5 @@
-package com.GLA.arrays;
-import java.util.*;
+package com.GLA.leetcode;
+
 public class LC1480 {
     public int[] runningSum(int[] nums) {
         int sum = 0;

@@ -1,5 +1,4 @@
-package com.GLA.arrays;
-import java.util.*;
+package com.GLA.leetcode;
 
 public class LC1920 {
     public int[] buildArray(int[] nums) {

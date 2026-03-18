@@ -1,4 +1,4 @@
-package com.GLA.string;
+package com.GLA.leetcode;
 import java.util.*;
 public class LC14 {
     class Solution {

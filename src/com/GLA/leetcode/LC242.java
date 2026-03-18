@@ -1,5 +1,5 @@
-package com.GLA.string;
-import java.util.*;
+package com.GLA.leetcode;
+
 public class LC242 {
     class Solution {
         public boolean isAnagram(String s, String t) {

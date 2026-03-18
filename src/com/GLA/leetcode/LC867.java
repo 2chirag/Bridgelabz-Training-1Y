@@ -1,5 +1,4 @@
-package com.GLA.arrays;
-import java.util.*;
+package com.GLA.leetcode;
 
 public class LC867 {
     public int[][] transpose(int[][] matrix) {
