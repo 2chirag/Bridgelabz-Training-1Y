@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b8501584-d0fe-4cf0-a653-b418492dc67b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/Bridgelabz-Training-1Y/com/GLA/cllections/HashMapexapmle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/GLA/cllections/HashMapexapmle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/GLA/cllections/HashMapexapmle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/steam/SteeamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/steam/SteeamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/Bridgelabz-Training-1Y/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/Bridgelabz-Training-1Y/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/GLA/Maruti/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/GLA/Maruti/practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,23 +40,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.HashMap.executor": "Run",
-    "Application.HashMapexapmle.executor": "Run",
-    "Application.Practical.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "workshop",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMapexapmle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practical.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;workshop&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.AgeChecker">
     <configuration name="AgeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.GLA.exception.AgeChecker" />
       <module name="javaproject" />

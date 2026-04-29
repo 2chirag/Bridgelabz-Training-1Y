@@ -8,7 +8,7 @@ class Maruti extends Vehicle {
         System.out.println("car run fast");
     }
 }
-class Main{
+class Main2 {
     public static void main(String[] args){
         Vehicle obj = new Maruti();
         Maruti m = (Maruti) obj;
